@@ -1,0 +1,6 @@
+{
+  "name": "RC30 Termux Radar",
+  "description": "Telasetry V3 oyun ve sağlayıcı tespiti, 500-spin Monte Carlo ön-simülasyon, saat/dakika tohum analizi, canlı IP/oturum sıfırlama radarı ve Termux CLI motoru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

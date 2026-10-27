@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RC30 Radar</string>
+    <string name="radar_title">RC30 PRO V3 // TELASETRY ENGINE</string>
+    <string name="radar_subtitle">Termux Karar, Ön-Simülasyon ve Ağ Sıfırlama Radarı</string>
+    <string name="tab_radar">RADAR &amp; SİM</string>
+    <string name="tab_network">IP &amp; OTURUM</string>
+    <string name="tab_termux">TERMUX CLI</string>
+    <string name="tab_catalog">SAĞLAYICILAR</string>
+    <string name="input_hint_game">Site URL, Oyun Adı veya Sağlayıcı girin (örn: sweet bonanza, pragmatic, xslot.com/gates)...</string>
+    <string name="btn_run_simulation">500-SPİN ÖN-SİMÜLASYON KOŞ</string>
+    <string name="btn_reset_session">OTURUM &amp; PARMAK İZİ SIFIRLA</string>
+    <string name="btn_check_ip">CANLI IP DENETLE</string>
+    <string name="btn_airplane_mode">UÇAK MODU (3SN IP YENİLE)</string>
+    <string name="btn_copy_termux">TERMUX TEK-SATIR KURULUM KODUNU KOPYALA</string>
+    <string name="btn_copy_python">SAF PYTHON KODUNU (rc30_radar.py) KOPYALA</string>
+</resources>

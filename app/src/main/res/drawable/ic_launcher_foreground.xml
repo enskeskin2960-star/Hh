@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer radar ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,30A24,24 0,1 1,30 54A24,24 0,0 1,54 30Z"
+        android:strokeWidth="4.5"
+        android:strokeColor="#00FF9D" />
+    <!-- Radar sweep beam -->
+    <path
+        android:fillColor="#4400FF9D"
+        android:pathData="M54,54L54,30A24,24 0,0 1,74.8 42Z" />
+    <!-- Terminal prompt chevron >_ inside radar -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M42,45L52,54L42,63L38.5,59.5L45,54L38.5,48.5Z" />
+    <path
+        android:fillColor="#00FF9D"
+        android:pathData="M54,59H67V64H54Z" />
+</vector>
